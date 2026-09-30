@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sign In — FreshFind</title>
+<meta name="description" content="Sign in to FreshFind to access your saved markets, produce guides and basket.">
+<meta name="keywords" content="Karachi sabzi mandi, fresh produce Karachi, vegetable prices Karachi, fruit market, FreshFind">
+<meta name="author" content="FreshFind">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#08150c">
+<link rel="canonical" href="https://freshfind.pk/login.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="FreshFind">
+<meta property="og:title" content="Sign In — FreshFind">
+<meta property="og:description" content="Sign in to FreshFind to access your saved markets, produce guides and basket.">
+<meta property="og:url" content="https://freshfind.pk/login.html">
+<meta property="og:image" content="https://freshfind.pk/assets/img/login.jpg">
+<meta property="og:locale" content="en_PK">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Sign In — FreshFind">
+<meta name="twitter:description" content="Sign in to FreshFind to access your saved markets, produce guides and basket.">
+<meta name="twitter:image" content="https://freshfind.pk/assets/img/login.jpg">
+<link rel="icon" type="image/png" href="assets/img/favicon.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
+<link rel="preload" href="assets/fonts/inter-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/fraunces-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/fonts.css">
+<link rel="stylesheet" href="assets/vendor/fontawesome/css/all.min.css">
+<link rel="stylesheet" href="css/main.css">
+</head>
+<body data-page="login">
+<a class="skip-link" href="#main">Skip to main content</a>
+<div class="progress" aria-hidden="true"></div>
+<header class="hdr" role="banner">
+  <div class="container hdr__inner">
+    <a href="index.html" class="brand" aria-label="FreshFind home">
+      <img src="assets/img/logo-mark.jpg" alt="" width="40" height="40">
+      <span class="brand__txt"><span class="brand__name">Fresh<span>Find</span></span><span class="brand__tag">FRESH · LOCAL · NATURAL</span></span>
+    </a>
+    <nav class="nav" id="mainNav" aria-label="Main navigation">
+      <button class="hbtn nav__close" aria-label="Close menu"><i class="fa-solid fa-xmark"></i></button>
+      <ul><li><a href="index.html">Home</a></li><li><a href="market.html">Markets</a></li><li><a href="produce.html">Produce</a></li><li><a href="bookmarks.html">Bookmarks</a></li><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a></li></ul>
+      <div class="nav__extra"><a class="btn btn--lime btn--block" href="login.html"><i class="fa-regular fa-circle-user"></i> Sign in / Register</a></div>
+    </nav>
+    <div class="hdr__actions">
+      <button class="hbtn" data-open-search aria-label="Search markets and produce (press /)"><i class="fa-solid fa-magnifying-glass"></i></button>
+      <a class="hbtn" href="bookmarks.html" aria-label="Bookmarks"><i class="fa-regular fa-bookmark"></i><span class="count bm-count" aria-hidden="true">0</span></a>
+      <button class="hbtn" data-open-cart aria-label="Open basket"><i class="fa-solid fa-cart-shopping"></i><span class="count cart-count" aria-hidden="true">0</span></button>
+      <a class="acct" href="login.html" aria-label="Account"><i class="fa-regular fa-circle-user"></i><span class="lbl">Account</span></a>
+      <button class="hbtn nav-toggle" aria-controls="mainNav" aria-expanded="false" aria-label="Open menu"><i class="fa-solid fa-bars"></i></button>
+    </div>
+  </div>
+</header>
+<main id="main">
+  <div class="container auth">
+    <section class="auth__art on-dark" data-reveal aria-hidden="false"><img src="assets/img/login.jpg" alt="" width="1000" height="1000"><span class="auth__badge"><i class="fa-solid fa-house"></i> Welcome back</span><h1>Good food has a way of bringing us home.</h1><p>Return to your saved markets, seasonal guides, and favorite fresh finds.</p></section>
+    <section class="auth__card" data-reveal aria-label="Sign in form"><span class="eyebrow">Your FreshFind</span><h2>Welcome back</h2><p>Sign in to continue your local food journey.</p><div class="social-auth"><button type="button" data-social="Google"><i class="fa-brands fa-google"></i> Google</button><button type="button" data-social="Apple"><i class="fa-brands fa-apple"></i> Apple</button></div><div class="or">OR EMAIL</div>
+      <form id="loginForm" novalidate>
+        <div class="field"><label for="lemail">Email address</label><input class="input" id="lemail" name="email" type="email" placeholder="you@example.com" autocomplete="email" required><p class="err" aria-live="polite"></p></div>
+        <div class="field"><label for="lpw">Password</label><div class="pw-wrap"><input class="input" id="lpw" name="password" type="password" placeholder="••••••••" autocomplete="current-password" required><button type="button" class="pw-toggle" aria-label="Show password"><i class="fa-regular fa-eye-slash"></i></button></div><p class="err" aria-live="polite"></p></div>
+        <div class="auth__row"><label class="check"><input type="checkbox" name="remember"> Remember me</label><a href="#" id="forgotLink">Forgot password?</a></div>
+        <button class="btn btn--dark btn--block" type="submit">Sign In <i class="fa-solid fa-arrow-right"></i></button>
+      </form>
+      <p class="auth__switch">New to FreshFind? <a href="signup.html">Create an account</a></p></section>
+  </div>
+</main>
+<div class="overlay modal" id="forgotModal" role="dialog" aria-modal="true" aria-labelledby="fTitle" aria-hidden="true">
+  <div class="modal__card"><button class="x-btn" data-close aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
+    <h2 id="fTitle">Reset your password</h2><p class="muted" style="font-size:.85rem;margin-bottom:18px">We'll send a reset link to your email.</p>
+    <form id="forgotForm" novalidate><div class="field"><label for="femail">Email address</label><input class="input" id="femail" name="femail" type="email" autocomplete="email" required><p class="err"></p></div><button class="btn btn--dark btn--block" type="submit">Send Reset Link</button></form>
+  </div>
+</div>
+<section class="cta" aria-labelledby="ctaTitle">
+  <div class="container cta__inner">
+    <div><h2 id="ctaTitle">Your freshest discovery is just around the corner.</h2>
+    <p>Explore seasonal produce, trusted growers, and vibrant local markets.</p></div>
+    <a href="market.html" class="btn btn--lime">Explore Markets <i class="fa-solid fa-arrow-right"></i></a>
+  </div>
+</section>
+<footer class="ftr" role="contentinfo">
+  <div class="container ftr__grid" style="padding-left:24px;padding-right:24px">
+    <div>
+      <a href="index.html" class="brand" aria-label="FreshFind home"><img src="assets/img/logo-mark.jpg" alt="" width="40" height="40"><span class="brand__txt"><span class="brand__name">Fresh<span>Find</span></span></span></a>
+      <p>A thoughtful guide to fresh food, local markets, and the people who grow goodness.</p>
+    </div>
+    <nav aria-label="Discover"><h3>Discover</h3><ul><li><a href="market.html">Markets</a></li><li><a href="produce.html">Produce guide</a></li><li><a href="produce.html?cat=In%20season">Seasonal picks</a></li><li><a href="bookmarks.html">Bookmarks</a></li></ul></nav>
+    <nav aria-label="FreshFind"><h3>FreshFind</h3><ul><li><a href="about.html">About us</a></li><li><a href="contact.html">Contact us</a></li><li><a href="about.html#why">Our standards</a></li><li><a href="contact.html#faq">FAQs</a></li></ul></nav>
+    <div>
+      <h3>Fresh notes, monthly</h3>
+      <p>Seasonal guides and market stories, delivered with care.</p>
+      <form class="nl-form" data-newsletter novalidate>
+        <label for="nl-auth" class="sr-only">Email address</label>
+        <input id="nl-auth" type="email" placeholder="Email address" required autocomplete="email">
+        <button type="submit" aria-label="Subscribe"><i class="fa-solid fa-arrow-right"></i></button>
+      </form>
+    </div>
+  </div>
+  <div class="ftr__bottom"><div class="container"><p>© <span id="year">2026</span> FreshFind. Fresh, local, natural.</p><div class="social">
+  <a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="FreshFind on Instagram"><i class="fa-brands fa-instagram"></i></a>
+  <a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="FreshFind on Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+  <a href="https://www.youtube.com/" target="_blank" rel="noopener" aria-label="FreshFind on YouTube"><i class="fa-brands fa-youtube"></i></a>
+</div></div></div>
+</footer>
+<button class="to-top" aria-label="Back to top"><i class="fa-solid fa-arrow-up"></i></button>
+<script src="js/core.js" defer></script>
+<script src="js/pages/auth.js" defer></script>
+</body>
+</html>

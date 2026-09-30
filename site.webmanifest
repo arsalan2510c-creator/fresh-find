@@ -1,0 +1,15 @@
+{
+  "name": "FreshFind",
+  "short_name": "FreshFind",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f8f6f2",
+  "theme_color": "#08150c",
+  "icons": [
+    {
+      "src": "assets/img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,2027 @@
+{
+ "baby-spinach": {
+  "name": "Baby Spinach",
+  "latin": "Spinacia oleracea",
+  "flavor": "Mild & tender",
+  "nutrition": {
+   "kcal": 23,
+   "carbs": 3.6,
+   "fiber": 2.2,
+   "vitaminC": 28,
+   "potassium": 558
+  },
+  "peak": [
+   11,
+   12,
+   1,
+   2
+  ],
+  "shoulder": [
+   10,
+   3
+  ],
+  "benefits": [
+   {
+    "title": "Iron boost",
+    "text": "Supports healthy blood and steady energy.",
+    "key": "iron"
+   },
+   {
+    "title": "Eye health",
+    "text": "Carotenoids support healthy vision.",
+    "key": "eyes"
+   },
+   {
+    "title": "Heart support",
+    "text": "Potassium helps maintain healthy blood pressure.",
+    "key": "heart"
+   },
+   {
+    "title": "Fiber rich",
+    "text": "Keeps digestion regular and you fuller for longer.",
+    "key": "fiber"
+   }
+  ],
+  "storage": [
+   [
+    "Wrap in a damp cloth",
+    "Refrigerate in a breathable bag and use within 3 days."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "bitter-gourd": {
+  "name": "Bitter Gourd",
+  "latin": "Momordica charantia",
+  "flavor": "Sharp & bitter",
+  "nutrition": {
+   "kcal": 17,
+   "carbs": 3.7,
+   "fiber": 2.8,
+   "vitaminC": 84,
+   "potassium": 296
+  },
+  "peak": [
+   5,
+   6,
+   7,
+   8
+  ],
+  "shoulder": [
+   4,
+   9
+  ],
+  "benefits": [
+   {
+    "title": "Balanced sugar",
+    "text": "Low glycaemic load helps keep blood sugar steady.",
+    "key": "sugar"
+   },
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   },
+   {
+    "title": "Fiber rich",
+    "text": "Keeps digestion regular and you fuller for longer.",
+    "key": "fiber"
+   },
+   {
+    "title": "Naturally hydrating",
+    "text": "High water content keeps you refreshed.",
+    "key": "hydrate"
+   }
+  ],
+  "storage": [
+   [
+    "Refrigerate in the crisper",
+    "Keep loosely wrapped in the vegetable drawer."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "bottle-gourd": {
+  "name": "Bottle Gourd",
+  "latin": "Lagenaria siceraria",
+  "flavor": "Light & mild",
+  "nutrition": {
+   "kcal": 14,
+   "carbs": 3.4,
+   "fiber": 0.5,
+   "vitaminC": 10,
+   "potassium": 150
+  },
+  "peak": [
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "shoulder": [
+   3,
+   9
+  ],
+  "benefits": [
+   {
+    "title": "Naturally hydrating",
+    "text": "High water content keeps you refreshed.",
+    "key": "hydrate"
+   },
+   {
+    "title": "Gentle digestion",
+    "text": "Traditionally used to soothe the stomach.",
+    "key": "digest"
+   },
+   {
+    "title": "Heart support",
+    "text": "Potassium helps maintain healthy blood pressure.",
+    "key": "heart"
+   },
+   {
+    "title": "Light on calories",
+    "text": "Filling volume with very few calories.",
+    "key": "light"
+   }
+  ],
+  "storage": [
+   [
+    "Refrigerate in the crisper",
+    "Keep loosely wrapped in the vegetable drawer."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "capsicum": {
+  "name": "Capsicum",
+  "latin": "Capsicum annuum",
+  "flavor": "Crisp & sweet",
+  "nutrition": {
+   "kcal": 20,
+   "carbs": 4.6,
+   "fiber": 1.7,
+   "vitaminC": 80,
+   "potassium": 175
+  },
+  "peak": [
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "shoulder": [
+   10,
+   4
+  ],
+  "benefits": [
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   },
+   {
+    "title": "Eye health",
+    "text": "Carotenoids support healthy vision.",
+    "key": "eyes"
+   },
+   {
+    "title": "Antioxidant rich",
+    "text": "Protective plant compounds fight oxidative stress.",
+    "key": "antiox"
+   },
+   {
+    "title": "Light on calories",
+    "text": "Filling volume with very few calories.",
+    "key": "light"
+   }
+  ],
+  "storage": [
+   [
+    "Refrigerate in the crisper",
+    "Keep loosely wrapped in the vegetable drawer."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": "assets/img/p-pepper.jpg"
+ },
+ "cauliflower-head": {
+  "name": "Cauliflower Head",
+  "latin": "Brassica oleracea var. botrytis",
+  "flavor": "Nutty & mild",
+  "nutrition": {
+   "kcal": 25,
+   "carbs": 5,
+   "fiber": 2,
+   "vitaminC": 48,
+   "potassium": 299
+  },
+  "peak": [
+   11,
+   12,
+   1,
+   2
+  ],
+  "shoulder": [
+   10,
+   3
+  ],
+  "benefits": [
+   {
+    "title": "Fiber rich",
+    "text": "Keeps digestion regular and you fuller for longer.",
+    "key": "fiber"
+   },
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   },
+   {
+    "title": "Antioxidant rich",
+    "text": "Protective plant compounds fight oxidative stress.",
+    "key": "antiox"
+   },
+   {
+    "title": "Light on calories",
+    "text": "Filling volume with very few calories.",
+    "key": "light"
+   }
+  ],
+  "storage": [
+   [
+    "Refrigerate in the crisper",
+    "Keep loosely wrapped in the vegetable drawer."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "cucumber": {
+  "name": "Cucumber",
+  "latin": "Cucumis sativus",
+  "flavor": "Cool & crisp",
+  "nutrition": {
+   "kcal": 15,
+   "carbs": 3.6,
+   "fiber": 0.5,
+   "vitaminC": 3,
+   "potassium": 147
+  },
+  "peak": [
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "shoulder": [
+   2,
+   8
+  ],
+  "benefits": [
+   {
+    "title": "Naturally hydrating",
+    "text": "High water content keeps you refreshed.",
+    "key": "hydrate"
+   },
+   {
+    "title": "Light on calories",
+    "text": "Filling volume with very few calories.",
+    "key": "light"
+   },
+   {
+    "title": "Glowing skin",
+    "text": "Vitamins that support collagen and skin repair.",
+    "key": "skin"
+   },
+   {
+    "title": "Gentle digestion",
+    "text": "Traditionally used to soothe the stomach.",
+    "key": "digest"
+   }
+  ],
+  "storage": [
+   [
+    "Refrigerate in the crisper",
+    "Keep loosely wrapped in the vegetable drawer."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "dates": {
+  "name": "Dates",
+  "latin": "Phoenix dactylifera",
+  "flavor": "Rich & caramel",
+  "nutrition": {
+   "kcal": 282,
+   "carbs": 75,
+   "fiber": 8,
+   "vitaminC": 0.4,
+   "potassium": 656
+  },
+  "peak": [
+   7,
+   8,
+   9
+  ],
+  "shoulder": [
+   6,
+   10
+  ],
+  "benefits": [
+   {
+    "title": "Natural energy",
+    "text": "Wholesome carbs for sustained energy.",
+    "key": "energy"
+   },
+   {
+    "title": "Fiber rich",
+    "text": "Keeps digestion regular and you fuller for longer.",
+    "key": "fiber"
+   },
+   {
+    "title": "Heart support",
+    "text": "Potassium helps maintain healthy blood pressure.",
+    "key": "heart"
+   },
+   {
+    "title": "Iron boost",
+    "text": "Supports healthy blood and steady energy.",
+    "key": "iron"
+   }
+  ],
+  "storage": [
+   [
+    "Store cool and dry",
+    "Keep in a ventilated basket, away from moisture and light."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": "assets/img/p-dates.jpg"
+ },
+ "french-beans": {
+  "name": "French Beans",
+  "latin": "Phaseolus vulgaris",
+  "flavor": "Fresh & grassy",
+  "nutrition": {
+   "kcal": 31,
+   "carbs": 7,
+   "fiber": 2.7,
+   "vitaminC": 12,
+   "potassium": 211
+  },
+  "peak": [
+   10,
+   11,
+   12,
+   1,
+   2
+  ],
+  "shoulder": [
+   9,
+   3
+  ],
+  "benefits": [
+   {
+    "title": "Fiber rich",
+    "text": "Keeps digestion regular and you fuller for longer.",
+    "key": "fiber"
+   },
+   {
+    "title": "Heart support",
+    "text": "Potassium helps maintain healthy blood pressure.",
+    "key": "heart"
+   },
+   {
+    "title": "Strong bones",
+    "text": "Vitamin K and minerals support bone health.",
+    "key": "bones"
+   },
+   {
+    "title": "Light on calories",
+    "text": "Filling volume with very few calories.",
+    "key": "light"
+   }
+  ],
+  "storage": [
+   [
+    "Refrigerate in the crisper",
+    "Keep loosely wrapped in the vegetable drawer."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "fresh-coriander": {
+  "name": "Fresh Coriander",
+  "latin": "Coriandrum sativum",
+  "flavor": "Bright & citrusy",
+  "nutrition": {
+   "kcal": 23,
+   "carbs": 3.7,
+   "fiber": 2.8,
+   "vitaminC": 27,
+   "potassium": 521
+  },
+  "peak": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "shoulder": [
+   4,
+   9
+  ],
+  "benefits": [
+   {
+    "title": "Gentle digestion",
+    "text": "Traditionally used to soothe the stomach.",
+    "key": "digest"
+   },
+   {
+    "title": "Antioxidant rich",
+    "text": "Protective plant compounds fight oxidative stress.",
+    "key": "antiox"
+   },
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   },
+   {
+    "title": "Eye health",
+    "text": "Carotenoids support healthy vision.",
+    "key": "eyes"
+   }
+  ],
+  "storage": [
+   [
+    "Wrap in a damp cloth",
+    "Refrigerate in a breathable bag and use within 3 days."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": "assets/img/p-herbs.jpg"
+ },
+ "fresh-tomato": {
+  "name": "Fresh Tomato",
+  "latin": "Solanum lycopersicum",
+  "flavor": "Rich & juicy",
+  "nutrition": {
+   "kcal": 18,
+   "carbs": 3.9,
+   "fiber": 1.2,
+   "vitaminC": 14,
+   "potassium": 237
+  },
+  "peak": [
+   12,
+   1,
+   2,
+   3
+  ],
+  "shoulder": [
+   11,
+   4
+  ],
+  "benefits": [
+   {
+    "title": "Heart support",
+    "text": "Potassium helps maintain healthy blood pressure.",
+    "key": "heart"
+   },
+   {
+    "title": "Antioxidant rich",
+    "text": "Protective plant compounds fight oxidative stress.",
+    "key": "antiox"
+   },
+   {
+    "title": "Eye health",
+    "text": "Carotenoids support healthy vision.",
+    "key": "eyes"
+   },
+   {
+    "title": "Naturally hydrating",
+    "text": "High water content keeps you refreshed.",
+    "key": "hydrate"
+   }
+  ],
+  "storage": [
+   [
+    "Keep at room temperature",
+    "Store in a cool, airy spot away from direct sun."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": "assets/img/p-tomato.jpg"
+ },
+ "garlic-bulb": {
+  "name": "Garlic Bulb",
+  "latin": "Allium sativum",
+  "flavor": "Pungent & savory",
+  "nutrition": {
+   "kcal": 149,
+   "carbs": 33,
+   "fiber": 2.1,
+   "vitaminC": 31,
+   "potassium": 401
+  },
+  "peak": [
+   3,
+   4,
+   5
+  ],
+  "shoulder": [
+   2,
+   6
+  ],
+  "benefits": [
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   },
+   {
+    "title": "Heart support",
+    "text": "Potassium helps maintain healthy blood pressure.",
+    "key": "heart"
+   },
+   {
+    "title": "Antioxidant rich",
+    "text": "Protective plant compounds fight oxidative stress.",
+    "key": "antiox"
+   },
+   {
+    "title": "Gentle digestion",
+    "text": "Traditionally used to soothe the stomach.",
+    "key": "digest"
+   }
+  ],
+  "storage": [
+   [
+    "Store cool and dry",
+    "Keep in a ventilated basket, away from moisture and light."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": "assets/img/p-garlic.jpg"
+ },
+ "ginger-root": {
+  "name": "Ginger Root",
+  "latin": "Zingiber officinale",
+  "flavor": "Warm & zesty",
+  "nutrition": {
+   "kcal": 80,
+   "carbs": 18,
+   "fiber": 2,
+   "vitaminC": 5,
+   "potassium": 415
+  },
+  "peak": [
+   11,
+   12,
+   1,
+   2
+  ],
+  "shoulder": [
+   10,
+   3
+  ],
+  "benefits": [
+   {
+    "title": "Gentle digestion",
+    "text": "Traditionally used to soothe the stomach.",
+    "key": "digest"
+   },
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   },
+   {
+    "title": "Antioxidant rich",
+    "text": "Protective plant compounds fight oxidative stress.",
+    "key": "antiox"
+   },
+   {
+    "title": "Natural energy",
+    "text": "Wholesome carbs for sustained energy.",
+    "key": "energy"
+   }
+  ],
+  "storage": [
+   [
+    "Store cool and dry",
+    "Keep in a ventilated basket, away from moisture and light."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "green-cabbage": {
+  "name": "Green Cabbage",
+  "latin": "Brassica oleracea var. capitata",
+  "flavor": "Crunchy & sweet",
+  "nutrition": {
+   "kcal": 25,
+   "carbs": 5.8,
+   "fiber": 2.5,
+   "vitaminC": 37,
+   "potassium": 170
+  },
+  "peak": [
+   11,
+   12,
+   1,
+   2
+  ],
+  "shoulder": [
+   10,
+   3
+  ],
+  "benefits": [
+   {
+    "title": "Gentle digestion",
+    "text": "Traditionally used to soothe the stomach.",
+    "key": "digest"
+   },
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   },
+   {
+    "title": "Fiber rich",
+    "text": "Keeps digestion regular and you fuller for longer.",
+    "key": "fiber"
+   },
+   {
+    "title": "Light on calories",
+    "text": "Filling volume with very few calories.",
+    "key": "light"
+   }
+  ],
+  "storage": [
+   [
+    "Refrigerate in the crisper",
+    "Keep loosely wrapped in the vegetable drawer."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "green-chili": {
+  "name": "Green Chili",
+  "latin": "Capsicum frutescens",
+  "flavor": "Hot & sharp",
+  "nutrition": {
+   "kcal": 40,
+   "carbs": 9,
+   "fiber": 1.5,
+   "vitaminC": 242,
+   "potassium": 340
+  },
+  "peak": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "shoulder": [
+   4,
+   11
+  ],
+  "benefits": [
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   },
+   {
+    "title": "Antioxidant rich",
+    "text": "Protective plant compounds fight oxidative stress.",
+    "key": "antiox"
+   },
+   {
+    "title": "Natural energy",
+    "text": "Wholesome carbs for sustained energy.",
+    "key": "energy"
+   },
+   {
+    "title": "Gentle digestion",
+    "text": "Traditionally used to soothe the stomach.",
+    "key": "digest"
+   }
+  ],
+  "storage": [
+   [
+    "Refrigerate in the crisper",
+    "Keep loosely wrapped in the vegetable drawer."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "green-peas": {
+  "name": "Green Peas",
+  "latin": "Pisum sativum",
+  "flavor": "Sweet & starchy",
+  "nutrition": {
+   "kcal": 81,
+   "carbs": 14,
+   "fiber": 5,
+   "vitaminC": 40,
+   "potassium": 244
+  },
+  "peak": [
+   12,
+   1,
+   2
+  ],
+  "shoulder": [
+   11,
+   3
+  ],
+  "benefits": [
+   {
+    "title": "Fiber rich",
+    "text": "Keeps digestion regular and you fuller for longer.",
+    "key": "fiber"
+   },
+   {
+    "title": "Natural energy",
+    "text": "Wholesome carbs for sustained energy.",
+    "key": "energy"
+   },
+   {
+    "title": "Heart support",
+    "text": "Potassium helps maintain healthy blood pressure.",
+    "key": "heart"
+   },
+   {
+    "title": "Strong bones",
+    "text": "Vitamin K and minerals support bone health.",
+    "key": "bones"
+   }
+  ],
+  "storage": [
+   [
+    "Refrigerate in the crisper",
+    "Keep loosely wrapped in the vegetable drawer."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "juicy-lemon": {
+  "name": "Juicy Lemon",
+  "latin": "Citrus limon",
+  "flavor": "Tart & fresh",
+  "nutrition": {
+   "kcal": 29,
+   "carbs": 9,
+   "fiber": 2.8,
+   "vitaminC": 53,
+   "potassium": 138
+  },
+  "peak": [
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "shoulder": [
+   6,
+   12
+  ],
+  "benefits": [
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   },
+   {
+    "title": "Gentle digestion",
+    "text": "Traditionally used to soothe the stomach.",
+    "key": "digest"
+   },
+   {
+    "title": "Glowing skin",
+    "text": "Vitamins that support collagen and skin repair.",
+    "key": "skin"
+   },
+   {
+    "title": "Naturally hydrating",
+    "text": "High water content keeps you refreshed.",
+    "key": "hydrate"
+   }
+  ],
+  "storage": [
+   [
+    "Keep at room temperature",
+    "Store in a cool, airy spot away from direct sun."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "kinnow-orange": {
+  "name": "Kinnow Orange",
+  "latin": "Citrus reticulata",
+  "flavor": "Sweet & tangy",
+  "nutrition": {
+   "kcal": 53,
+   "carbs": 13,
+   "fiber": 1.8,
+   "vitaminC": 27,
+   "potassium": 166
+  },
+  "peak": [
+   12,
+   1,
+   2,
+   3
+  ],
+  "shoulder": [
+   11,
+   4
+  ],
+  "benefits": [
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   },
+   {
+    "title": "Naturally hydrating",
+    "text": "High water content keeps you refreshed.",
+    "key": "hydrate"
+   },
+   {
+    "title": "Glowing skin",
+    "text": "Vitamins that support collagen and skin repair.",
+    "key": "skin"
+   },
+   {
+    "title": "Antioxidant rich",
+    "text": "Protective plant compounds fight oxidative stress.",
+    "key": "antiox"
+   }
+  ],
+  "storage": [
+   [
+    "Keep at room temperature",
+    "Store in a cool, airy spot away from direct sun."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "lady-finger": {
+  "name": "Lady Finger",
+  "latin": "Abelmoschus esculentus",
+  "flavor": "Earthy & tender",
+  "nutrition": {
+   "kcal": 33,
+   "carbs": 7,
+   "fiber": 3.2,
+   "vitaminC": 23,
+   "potassium": 299
+  },
+  "peak": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "shoulder": [
+   4,
+   10
+  ],
+  "benefits": [
+   {
+    "title": "Fiber rich",
+    "text": "Keeps digestion regular and you fuller for longer.",
+    "key": "fiber"
+   },
+   {
+    "title": "Balanced sugar",
+    "text": "Low glycaemic load helps keep blood sugar steady.",
+    "key": "sugar"
+   },
+   {
+    "title": "Gentle digestion",
+    "text": "Traditionally used to soothe the stomach.",
+    "key": "digest"
+   },
+   {
+    "title": "Strong bones",
+    "text": "Vitamin K and minerals support bone health.",
+    "key": "bones"
+   }
+  ],
+  "storage": [
+   [
+    "Refrigerate in the crisper",
+    "Keep loosely wrapped in the vegetable drawer."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "mint-leaves": {
+  "name": "Mint Leaves",
+  "latin": "Mentha spicata",
+  "flavor": "Cool & aromatic",
+  "nutrition": {
+   "kcal": 44,
+   "carbs": 8,
+   "fiber": 6.8,
+   "vitaminC": 13,
+   "potassium": 458
+  },
+  "peak": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "shoulder": [
+   3,
+   10
+  ],
+  "benefits": [
+   {
+    "title": "Gentle digestion",
+    "text": "Traditionally used to soothe the stomach.",
+    "key": "digest"
+   },
+   {
+    "title": "Naturally hydrating",
+    "text": "High water content keeps you refreshed.",
+    "key": "hydrate"
+   },
+   {
+    "title": "Antioxidant rich",
+    "text": "Protective plant compounds fight oxidative stress.",
+    "key": "antiox"
+   },
+   {
+    "title": "Glowing skin",
+    "text": "Vitamins that support collagen and skin repair.",
+    "key": "skin"
+   }
+  ],
+  "storage": [
+   [
+    "Wrap in a damp cloth",
+    "Refrigerate in a breathable bag and use within 3 days."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": "assets/img/p-herbs.jpg"
+ },
+ "papaya": {
+  "name": "Papaya",
+  "latin": "Carica papaya",
+  "flavor": "Soft & tropical",
+  "nutrition": {
+   "kcal": 43,
+   "carbs": 11,
+   "fiber": 1.7,
+   "vitaminC": 61,
+   "potassium": 182
+  },
+  "peak": [
+   3,
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "shoulder": [
+   2,
+   11
+  ],
+  "benefits": [
+   {
+    "title": "Gentle digestion",
+    "text": "Traditionally used to soothe the stomach.",
+    "key": "digest"
+   },
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   },
+   {
+    "title": "Glowing skin",
+    "text": "Vitamins that support collagen and skin repair.",
+    "key": "skin"
+   },
+   {
+    "title": "Eye health",
+    "text": "Carotenoids support healthy vision.",
+    "key": "eyes"
+   }
+  ],
+  "storage": [
+   [
+    "Ripen on the counter",
+    "Leave at room temperature until fragrant and slightly soft."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "pomegranate": {
+  "name": "Pomegranate",
+  "latin": "Punica granatum",
+  "flavor": "Sweet-tart jewels",
+  "nutrition": {
+   "kcal": 83,
+   "carbs": 19,
+   "fiber": 4,
+   "vitaminC": 10,
+   "potassium": 236
+  },
+  "peak": [
+   9,
+   10,
+   11,
+   12
+  ],
+  "shoulder": [
+   8,
+   1
+  ],
+  "benefits": [
+   {
+    "title": "Antioxidant rich",
+    "text": "Protective plant compounds fight oxidative stress.",
+    "key": "antiox"
+   },
+   {
+    "title": "Heart support",
+    "text": "Potassium helps maintain healthy blood pressure.",
+    "key": "heart"
+   },
+   {
+    "title": "Fiber rich",
+    "text": "Keeps digestion regular and you fuller for longer.",
+    "key": "fiber"
+   },
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   }
+  ],
+  "storage": [
+   [
+    "Refrigerate in the crisper",
+    "Keep loosely wrapped in the vegetable drawer."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "pumpkin-slice": {
+  "name": "Pumpkin Slice",
+  "latin": "Cucurbita maxima",
+  "flavor": "Sweet & velvety",
+  "nutrition": {
+   "kcal": 26,
+   "carbs": 6.5,
+   "fiber": 0.5,
+   "vitaminC": 9,
+   "potassium": 340
+  },
+  "peak": [
+   9,
+   10,
+   11,
+   12
+  ],
+  "shoulder": [
+   8,
+   1
+  ],
+  "benefits": [
+   {
+    "title": "Eye health",
+    "text": "Carotenoids support healthy vision.",
+    "key": "eyes"
+   },
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   },
+   {
+    "title": "Light on calories",
+    "text": "Filling volume with very few calories.",
+    "key": "light"
+   },
+   {
+    "title": "Fiber rich",
+    "text": "Keeps digestion regular and you fuller for longer.",
+    "key": "fiber"
+   }
+  ],
+  "storage": [
+   [
+    "Refrigerate in the crisper",
+    "Keep loosely wrapped in the vegetable drawer."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "purple-brinjal": {
+  "name": "Purple Brinjal",
+  "latin": "Solanum melongena",
+  "flavor": "Silky & smoky",
+  "nutrition": {
+   "kcal": 25,
+   "carbs": 6,
+   "fiber": 3,
+   "vitaminC": 2,
+   "potassium": 229
+  },
+  "peak": [
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "shoulder": [
+   5,
+   11
+  ],
+  "benefits": [
+   {
+    "title": "Fiber rich",
+    "text": "Keeps digestion regular and you fuller for longer.",
+    "key": "fiber"
+   },
+   {
+    "title": "Heart support",
+    "text": "Potassium helps maintain healthy blood pressure.",
+    "key": "heart"
+   },
+   {
+    "title": "Antioxidant rich",
+    "text": "Protective plant compounds fight oxidative stress.",
+    "key": "antiox"
+   },
+   {
+    "title": "Light on calories",
+    "text": "Filling volume with very few calories.",
+    "key": "light"
+   }
+  ],
+  "storage": [
+   [
+    "Keep at room temperature",
+    "Store in a cool, airy spot away from direct sun."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": "assets/img/p-eggplant.jpg"
+ },
+ "red-apple": {
+  "name": "Red Apple",
+  "latin": "Malus domestica",
+  "flavor": "Crisp & sweet",
+  "nutrition": {
+   "kcal": 52,
+   "carbs": 14,
+   "fiber": 2.4,
+   "vitaminC": 4.6,
+   "potassium": 107
+  },
+  "peak": [
+   8,
+   9,
+   10,
+   11
+  ],
+  "shoulder": [
+   7,
+   12
+  ],
+  "benefits": [
+   {
+    "title": "Fiber rich",
+    "text": "Keeps digestion regular and you fuller for longer.",
+    "key": "fiber"
+   },
+   {
+    "title": "Heart support",
+    "text": "Potassium helps maintain healthy blood pressure.",
+    "key": "heart"
+   },
+   {
+    "title": "Antioxidant rich",
+    "text": "Protective plant compounds fight oxidative stress.",
+    "key": "antiox"
+   },
+   {
+    "title": "Naturally hydrating",
+    "text": "High water content keeps you refreshed.",
+    "key": "hydrate"
+   }
+  ],
+  "storage": [
+   [
+    "Refrigerate in the crisper",
+    "Keep loosely wrapped in the vegetable drawer."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": "assets/img/p-apple.jpg"
+ },
+ "red-potato": {
+  "name": "Red Potato",
+  "latin": "Solanum tuberosum",
+  "flavor": "Buttery & waxy",
+  "nutrition": {
+   "kcal": 70,
+   "carbs": 16,
+   "fiber": 1.7,
+   "vitaminC": 9,
+   "potassium": 455
+  },
+  "peak": [
+   12,
+   1,
+   2,
+   3
+  ],
+  "shoulder": [
+   11,
+   4
+  ],
+  "benefits": [
+   {
+    "title": "Natural energy",
+    "text": "Wholesome carbs for sustained energy.",
+    "key": "energy"
+   },
+   {
+    "title": "Heart support",
+    "text": "Potassium helps maintain healthy blood pressure.",
+    "key": "heart"
+   },
+   {
+    "title": "Gentle digestion",
+    "text": "Traditionally used to soothe the stomach.",
+    "key": "digest"
+   },
+   {
+    "title": "Strong bones",
+    "text": "Vitamin K and minerals support bone health.",
+    "key": "bones"
+   }
+  ],
+  "storage": [
+   [
+    "Store cool and dry",
+    "Keep in a ventilated basket, away from moisture and light."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "red-radish": {
+  "name": "Red Radish",
+  "latin": "Raphanus sativus",
+  "flavor": "Peppery & crisp",
+  "nutrition": {
+   "kcal": 16,
+   "carbs": 3.4,
+   "fiber": 1.6,
+   "vitaminC": 15,
+   "potassium": 233
+  },
+  "peak": [
+   11,
+   12,
+   1,
+   2
+  ],
+  "shoulder": [
+   10,
+   3
+  ],
+  "benefits": [
+   {
+    "title": "Gentle digestion",
+    "text": "Traditionally used to soothe the stomach.",
+    "key": "digest"
+   },
+   {
+    "title": "Naturally hydrating",
+    "text": "High water content keeps you refreshed.",
+    "key": "hydrate"
+   },
+   {
+    "title": "Light on calories",
+    "text": "Filling volume with very few calories.",
+    "key": "light"
+   },
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   }
+  ],
+  "storage": [
+   [
+    "Refrigerate in the crisper",
+    "Keep loosely wrapped in the vegetable drawer."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "sindhri-mango": {
+  "name": "Sindhri Mango",
+  "latin": "Mangifera indica",
+  "flavor": "Honeyed & fragrant",
+  "nutrition": {
+   "kcal": 60,
+   "carbs": 15,
+   "fiber": 1.6,
+   "vitaminC": 36,
+   "potassium": 168
+  },
+  "peak": [
+   5,
+   6,
+   7
+  ],
+  "shoulder": [
+   4,
+   8
+  ],
+  "benefits": [
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   },
+   {
+    "title": "Eye health",
+    "text": "Carotenoids support healthy vision.",
+    "key": "eyes"
+   },
+   {
+    "title": "Glowing skin",
+    "text": "Vitamins that support collagen and skin repair.",
+    "key": "skin"
+   },
+   {
+    "title": "Natural energy",
+    "text": "Wholesome carbs for sustained energy.",
+    "key": "energy"
+   }
+  ],
+  "storage": [
+   [
+    "Ripen on the counter",
+    "Leave at room temperature until fragrant and slightly soft."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": "assets/img/veg_thumb6.jpg"
+ },
+ "strawberry": {
+  "name": "Strawberry",
+  "latin": "Fragaria × ananassa",
+  "flavor": "Sweet & bright",
+  "nutrition": {
+   "kcal": 32,
+   "carbs": 7.7,
+   "fiber": 2,
+   "vitaminC": 59,
+   "potassium": 153
+  },
+  "peak": [
+   12,
+   1,
+   2,
+   3
+  ],
+  "shoulder": [
+   11,
+   4
+  ],
+  "benefits": [
+   {
+    "title": "Antioxidant rich",
+    "text": "Protective plant compounds fight oxidative stress.",
+    "key": "antiox"
+   },
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   },
+   {
+    "title": "Heart support",
+    "text": "Potassium helps maintain healthy blood pressure.",
+    "key": "heart"
+   },
+   {
+    "title": "Glowing skin",
+    "text": "Vitamins that support collagen and skin repair.",
+    "key": "skin"
+   }
+  ],
+  "storage": [
+   [
+    "Refrigerate in the crisper",
+    "Keep loosely wrapped in the vegetable drawer."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": "assets/img/veg_thumb4.jpg"
+ },
+ "sweet-carrot": {
+  "name": "Sweet Carrot",
+  "latin": "Daucus carota",
+  "flavor": "Earthy & sweet",
+  "nutrition": {
+   "kcal": 41,
+   "carbs": 10,
+   "fiber": 2.8,
+   "vitaminC": 6,
+   "potassium": 320
+  },
+  "peak": [
+   12,
+   1,
+   2,
+   3
+  ],
+  "shoulder": [
+   11,
+   4
+  ],
+  "benefits": [
+   {
+    "title": "Eye health",
+    "text": "Carotenoids support healthy vision.",
+    "key": "eyes"
+   },
+   {
+    "title": "Glowing skin",
+    "text": "Vitamins that support collagen and skin repair.",
+    "key": "skin"
+   },
+   {
+    "title": "Fiber rich",
+    "text": "Keeps digestion regular and you fuller for longer.",
+    "key": "fiber"
+   },
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   }
+  ],
+  "storage": [
+   [
+    "Refrigerate in the crisper",
+    "Keep loosely wrapped in the vegetable drawer."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": "assets/img/p-carrot.jpg"
+ },
+ "sweet-guava": {
+  "name": "Sweet Guava",
+  "latin": "Psidium guajava",
+  "flavor": "Floral & sweet",
+  "nutrition": {
+   "kcal": 68,
+   "carbs": 14,
+   "fiber": 5.4,
+   "vitaminC": 228,
+   "potassium": 417
+  },
+  "peak": [
+   8,
+   9,
+   10,
+   11,
+   12,
+   1
+  ],
+  "shoulder": [
+   7,
+   2
+  ],
+  "benefits": [
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   },
+   {
+    "title": "Fiber rich",
+    "text": "Keeps digestion regular and you fuller for longer.",
+    "key": "fiber"
+   },
+   {
+    "title": "Balanced sugar",
+    "text": "Low glycaemic load helps keep blood sugar steady.",
+    "key": "sugar"
+   },
+   {
+    "title": "Glowing skin",
+    "text": "Vitamins that support collagen and skin repair.",
+    "key": "skin"
+   }
+  ],
+  "storage": [
+   [
+    "Keep at room temperature",
+    "Store in a cool, airy spot away from direct sun."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "watermelon": {
+  "name": "Watermelon",
+  "latin": "Citrullus lanatus",
+  "flavor": "Cool & juicy",
+  "nutrition": {
+   "kcal": 30,
+   "carbs": 7.6,
+   "fiber": 0.4,
+   "vitaminC": 8,
+   "potassium": 112
+  },
+  "peak": [
+   4,
+   5,
+   6,
+   7
+  ],
+  "shoulder": [
+   3,
+   8
+  ],
+  "benefits": [
+   {
+    "title": "Naturally hydrating",
+    "text": "High water content keeps you refreshed.",
+    "key": "hydrate"
+   },
+   {
+    "title": "Heart support",
+    "text": "Potassium helps maintain healthy blood pressure.",
+    "key": "heart"
+   },
+   {
+    "title": "Antioxidant rich",
+    "text": "Protective plant compounds fight oxidative stress.",
+    "key": "antiox"
+   },
+   {
+    "title": "Light on calories",
+    "text": "Filling volume with very few calories.",
+    "key": "light"
+   }
+  ],
+  "storage": [
+   [
+    "Keep at room temperature",
+    "Store in a cool, airy spot away from direct sun."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": "assets/img/veg_thumb3.jpg"
+ },
+ "white-onion": {
+  "name": "White Onion",
+  "latin": "Allium cepa",
+  "flavor": "Sharp then sweet",
+  "nutrition": {
+   "kcal": 40,
+   "carbs": 9,
+   "fiber": 1.7,
+   "vitaminC": 7,
+   "potassium": 146
+  },
+  "peak": [
+   3,
+   4,
+   5,
+   11,
+   12
+  ],
+  "shoulder": [
+   2,
+   6
+  ],
+  "benefits": [
+   {
+    "title": "Heart support",
+    "text": "Potassium helps maintain healthy blood pressure.",
+    "key": "heart"
+   },
+   {
+    "title": "Antioxidant rich",
+    "text": "Protective plant compounds fight oxidative stress.",
+    "key": "antiox"
+   },
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   },
+   {
+    "title": "Gentle digestion",
+    "text": "Traditionally used to soothe the stomach.",
+    "key": "digest"
+   }
+  ],
+  "storage": [
+   [
+    "Store cool and dry",
+    "Keep in a ventilated basket, away from moisture and light."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "white-turnip": {
+  "name": "White Turnip",
+  "latin": "Brassica rapa",
+  "flavor": "Mild & peppery",
+  "nutrition": {
+   "kcal": 28,
+   "carbs": 6.4,
+   "fiber": 1.8,
+   "vitaminC": 21,
+   "potassium": 191
+  },
+  "peak": [
+   11,
+   12,
+   1,
+   2
+  ],
+  "shoulder": [
+   10,
+   3
+  ],
+  "benefits": [
+   {
+    "title": "Fiber rich",
+    "text": "Keeps digestion regular and you fuller for longer.",
+    "key": "fiber"
+   },
+   {
+    "title": "Immunity",
+    "text": "Vitamin C helps your body defend itself.",
+    "key": "immunity"
+   },
+   {
+    "title": "Strong bones",
+    "text": "Vitamin K and minerals support bone health.",
+    "key": "bones"
+   },
+   {
+    "title": "Light on calories",
+    "text": "Filling volume with very few calories.",
+    "key": "light"
+   }
+  ],
+  "storage": [
+   [
+    "Refrigerate in the crisper",
+    "Keep loosely wrapped in the vegetable drawer."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ },
+ "yellow-banana": {
+  "name": "Yellow Banana",
+  "latin": "Musa acuminata",
+  "flavor": "Creamy & sweet",
+  "nutrition": {
+   "kcal": 89,
+   "carbs": 23,
+   "fiber": 2.6,
+   "vitaminC": 8.7,
+   "potassium": 358
+  },
+  "peak": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "shoulder": [],
+  "benefits": [
+   {
+    "title": "Natural energy",
+    "text": "Wholesome carbs for sustained energy.",
+    "key": "energy"
+   },
+   {
+    "title": "Heart support",
+    "text": "Potassium helps maintain healthy blood pressure.",
+    "key": "heart"
+   },
+   {
+    "title": "Gentle digestion",
+    "text": "Traditionally used to soothe the stomach.",
+    "key": "digest"
+   },
+   {
+    "title": "Balanced sugar",
+    "text": "Low glycaemic load helps keep blood sugar steady.",
+    "key": "sugar"
+   }
+  ],
+  "storage": [
+   [
+    "Ripen on the counter",
+    "Leave at room temperature until fragrant and slightly soft."
+   ],
+   [
+    "Buy little and often",
+    "Flavour peaks within days of harvest, so shop twice a week."
+   ],
+   [
+    "Wash just before use",
+    "Rinse under cool water only when you're ready to cook or eat."
+   ]
+  ],
+  "image": null
+ }
+}

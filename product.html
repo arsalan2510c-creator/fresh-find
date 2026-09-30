@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Produce Guide | FreshFind</title>
+<meta name="description" content="Prices, nutrition, season and storage tips for fresh produce across Karachi markets.">
+<meta name="keywords" content="Karachi sabzi mandi, fresh produce Karachi, vegetable prices Karachi, fruit market, FreshFind">
+<meta name="author" content="FreshFind">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#08150c">
+<link rel="canonical" href="https://freshfind.pk/product.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="FreshFind">
+<meta property="og:title" content="Produce Guide | FreshFind">
+<meta property="og:description" content="Prices, nutrition, season and storage tips for fresh produce across Karachi markets.">
+<meta property="og:url" content="https://freshfind.pk/product.html">
+<meta property="og:image" content="https://freshfind.pk/assets/img/heirloom.jpg">
+<meta property="og:locale" content="en_PK">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Produce Guide | FreshFind">
+<meta name="twitter:description" content="Prices, nutrition, season and storage tips for fresh produce across Karachi markets.">
+<meta name="twitter:image" content="https://freshfind.pk/assets/img/heirloom.jpg">
+<link rel="icon" type="image/png" href="assets/img/favicon.png">
+<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
+<link rel="preload" href="assets/fonts/inter-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/fraunces-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="css/fonts.css">
+<link rel="stylesheet" href="assets/vendor/fontawesome/css/all.min.css">
+<link rel="stylesheet" href="css/main.css">
+</head>
+<body data-page="product">
+<a class="skip-link" href="#main">Skip to main content</a>
+<div class="progress" aria-hidden="true"></div>
+<header class="hdr" role="banner">
+  <div class="container hdr__inner">
+    <a href="index.html" class="brand" aria-label="FreshFind home">
+      <img src="assets/img/logo-mark.jpg" alt="" width="40" height="40">
+      <span class="brand__txt"><span class="brand__name">Fresh<span>Find</span></span><span class="brand__tag">FRESH · LOCAL · NATURAL</span></span>
+    </a>
+    <nav class="nav" id="mainNav" aria-label="Main navigation">
+      <button class="hbtn nav__close" aria-label="Close menu"><i class="fa-solid fa-xmark"></i></button>
+      <ul><li><a href="index.html">Home</a></li><li><a href="market.html">Markets</a></li><li><a href="produce.html" aria-current="page">Produce</a></li><li><a href="bookmarks.html">Bookmarks</a></li><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a></li></ul>
+      <div class="nav__extra"><a class="btn btn--lime btn--block" href="login.html"><i class="fa-regular fa-circle-user"></i> Sign in / Register</a></div>
+    </nav>
+    <div class="hdr__actions">
+      <button class="hbtn" data-open-search aria-label="Search markets and produce (press /)"><i class="fa-solid fa-magnifying-glass"></i></button>
+      <a class="hbtn" href="bookmarks.html" aria-label="Bookmarks"><i class="fa-regular fa-bookmark"></i><span class="count bm-count" aria-hidden="true">0</span></a>
+      <button class="hbtn" data-open-cart aria-label="Open basket"><i class="fa-solid fa-cart-shopping"></i><span class="count cart-count" aria-hidden="true">0</span></button>
+      <a class="acct" href="login.html" aria-label="Account"><i class="fa-regular fa-circle-user"></i><span class="lbl">Account</span></a>
+      <button class="hbtn nav-toggle" aria-controls="mainNav" aria-expanded="false" aria-label="Open menu"><i class="fa-solid fa-bars"></i></button>
+    </div>
+  </div>
+</header>
+<main id="main">
+<section class="phero on-dark" aria-labelledby="pName">
+  <div class="container prod-hero">
+    <div class="prod-img" data-reveal>
+      <img id="pImg" src="assets/img/heirloom.jpg" alt="" width="900" height="850" fetchpriority="high">
+      <button class="save-btn" id="pSaveIcon" data-save="produce:" aria-label="Save to bookmarks" aria-pressed="false"><i class="fa-regular fa-bookmark"></i></button>
+    </div>
+    <div data-reveal>
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="produce.html">Produce Guide</a><span aria-hidden="true">/</span><a id="pCrumbCat" href="produce.html">…</a><span aria-hidden="true">/</span><span id="pCrumbName" aria-current="page">…</span></nav>
+      <p class="latin" id="pLatin">…</p>
+      <h1 class="h-display" id="pName">Loading…</h1>
+      <div class="stars-row" style="display:flex;gap:10px;align-items:center;margin:10px 0 16px;font-size:.78rem;color:rgba(255,255,255,.7)"><span class="stars" id="pStars" aria-hidden="true"></span><span id="pRating"></span></div>
+      <p id="pDesc" style="max-width:520px"></p>
+      <div class="facts" id="pFacts"></div>
+      <div class="btn-row">
+        <button class="btn btn--lime" id="findBtn" type="button">Find at a Market <i class="fa-solid fa-arrow-right"></i></button>
+        <button class="btn btn--light" id="pSave" type="button" data-save="produce:" data-on-label="Saved to Bookmarks" data-off-label="Save to Bookmarks" aria-pressed="false"><i class="fa-regular fa-bookmark"></i> <span class="lbl">Save to Bookmarks</span></button>
+        <button class="btn btn--ghost" id="shareBtn" type="button" aria-label="Share this guide"><i class="fa-solid fa-share-nodes"></i></button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" aria-label="Nutrition and benefits">
+  <div class="container nutri-wrap">
+    <div class="nutri" data-reveal>
+      <span class="eyebrow">Per 100 g serving</span>
+      <div class="nutri__head"><h2>Nutrition facts</h2><b id="kcal">—</b></div>
+      <table><caption class="sr-only">Nutrients and percent daily value</caption><tbody id="nutriRows"></tbody></table>
+      <p class="muted" style="font-size:.72rem;margin-top:12px">% Daily Value based on a 2,000 calorie diet. Values are approximate.</p>
+    </div>
+    <div class="benefits" data-reveal>
+      <span class="eyebrow">Why it's good for you</span>
+      <h2 class="h-section">Small bite, generous benefits</h2>
+      <p class="lead" id="benefitIntro"></p>
+      <div class="grid" id="benefitGrid"></div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--sand" aria-label="Season and storage">
+  <div class="container two" style="grid-template-columns:1.2fr 1fr">
+    <div data-reveal>
+      <span class="eyebrow">Season availability</span>
+      <h2 class="h-section" id="seasonTitle">Best in season</h2>
+      <ol class="months" id="months" style="list-style:none;padding:0" aria-label="Monthly availability"></ol>
+      <div class="legend"><span>Peak season</span><span class="l2">Shoulder season</span><span class="l3">Limited</span></div>
+    </div>
+    <div data-reveal>
+      <span class="eyebrow">Storage tips</span>
+      <h2 class="h-section" style="margin-bottom:20px">Keep the flavor alive</h2>
+      <ol class="steps" id="storage" style="list-style:none;padding:0"></ol>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="compare" aria-labelledby="cmpTitle">
+  <div class="container">
+    <div class="sec-head"><div><span class="eyebrow">Where to buy</span><h2 class="h-section" id="cmpTitle">Compare prices across markets</h2><p class="lead" id="compareNote"></p></div><span class="eyebrow" id="compareCount"></span></div>
+    <div class="table-scroll" data-reveal><table class="compare"><caption class="sr-only">Price at each market</caption>
+      <thead><tr><th scope="col">Market</th><th scope="col">Price</th><th scope="col">Unit</th><th scope="col">Stock</th><th scope="col">Rating</th><th scope="col"><span class="sr-only">Add</span></th></tr></thead>
+      <tbody id="compareBody"></tbody></table></div>
+  </div>
+</section>
+
+<section class="section section--white" aria-labelledby="simTitle">
+  <div class="container">
+    <span class="eyebrow">Continue exploring</span>
+    <h2 class="h-section" id="simTitle">Similar produce</h2>
+    <p class="lead" style="margin-bottom:30px">More ingredients from the same family, in season first.</p>
+    <div class="grid-4" id="similarGrid"></div>
+  </div>
+</section>
+</main>
+<section class="cta" aria-labelledby="ctaTitle">
+  <div class="container cta__inner">
+    <div><h2 id="ctaTitle">Your freshest discovery is just around the corner.</h2>
+    <p>Explore seasonal produce, trusted growers, and vibrant local markets.</p></div>
+    <a href="market.html" class="btn btn--lime">Explore Markets <i class="fa-solid fa-arrow-right"></i></a>
+  </div>
+</section>
+<footer class="ftr" role="contentinfo">
+  <div class="container ftr__grid" style="padding-left:24px;padding-right:24px">
+    <div>
+      <a href="index.html" class="brand" aria-label="FreshFind home"><img src="assets/img/logo-mark.jpg" alt="" width="40" height="40"><span class="brand__txt"><span class="brand__name">Fresh<span>Find</span></span></span></a>
+      <p>A thoughtful guide to fresh food, local markets, and the people who grow goodness.</p>
+    </div>
+    <nav aria-label="Discover"><h3>Discover</h3><ul><li><a href="market.html">Markets</a></li><li><a href="produce.html">Produce guide</a></li><li><a href="produce.html?cat=In%20season">Seasonal picks</a></li><li><a href="bookmarks.html">Bookmarks</a></li></ul></nav>
+    <nav aria-label="FreshFind"><h3>FreshFind</h3><ul><li><a href="about.html">About us</a></li><li><a href="contact.html">Contact us</a></li><li><a href="about.html#why">Our standards</a></li><li><a href="contact.html#faq">FAQs</a></li></ul></nav>
+    <div>
+      <h3>Fresh notes, monthly</h3>
+      <p>Seasonal guides and market stories, delivered with care.</p>
+      <form class="nl-form" data-newsletter novalidate>
+        <label for="nl-product" class="sr-only">Email address</label>
+        <input id="nl-product" type="email" placeholder="Email address" required autocomplete="email">
+        <button type="submit" aria-label="Subscribe"><i class="fa-solid fa-arrow-right"></i></button>
+      </form>
+    </div>
+  </div>
+  <div class="ftr__bottom"><div class="container"><p>© <span id="year">2026</span> FreshFind. Fresh, local, natural.</p><div class="social">
+  <a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="FreshFind on Instagram"><i class="fa-brands fa-instagram"></i></a>
+  <a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="FreshFind on Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+  <a href="https://www.youtube.com/" target="_blank" rel="noopener" aria-label="FreshFind on YouTube"><i class="fa-brands fa-youtube"></i></a>
+</div></div></div>
+</footer>
+<button class="to-top" aria-label="Back to top"><i class="fa-solid fa-arrow-up"></i></button>
+<script src="js/core.js" defer></script>
+<script src="js/pages/product.js" defer></script>
+</body>
+</html>
